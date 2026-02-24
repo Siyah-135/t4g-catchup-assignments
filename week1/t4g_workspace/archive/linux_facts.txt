@@ -1,0 +1,3 @@
+Linux is open source
+Linux uses the command line
+Linux supports multiple users
