@@ -1,0 +1,7 @@
+#Tree
+Makes it easier to document projects for team members .
+Can be comibined with grep to search for specific files in the hierarchy
+
+#htop
+Let's you kill processes directly without without using separate commands
+provides color-coded metrics for easier reading and quicker debugging
