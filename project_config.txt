@@ -1,0 +1,1 @@
+so in the file permission, the user can read and write but cannot execute the file whiles both group and others can neither read , write nor execute the file
