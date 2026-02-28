@@ -1,0 +1,21 @@
+a.user can read , write and execute the file
+  group can read and execute but cannot write 
+  others can only read but cannot write and execute 
+
+b.user can read , write and execute the the folder
+  group can read , write and execute 
+  others can niether read , write nor execute the folder
+
+c.user can read and write the file
+  group can  only read the file
+  others can only read  the file 
+
+d.user can read , write and execute the the file
+  group can read and execute but cannot write 
+  others can niether read , write nor execute the file
+
+e.user can read and  write  file
+  group can niether read , write nor execute the file
+  others can niether read , write nor execute the file
+
+
